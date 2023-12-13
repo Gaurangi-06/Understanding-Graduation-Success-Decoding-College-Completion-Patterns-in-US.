@@ -2,7 +2,7 @@
 
 **Authors:** Pengru Lin, Bonny Yang, Gaurangi Agrawal, Lila Su, Rishabh Anand, Prudhvi Lanke
 
-1. Executive Summary
+## 1. Executive Summary
 
 **Decoding the Tapestry of American Education**
 
