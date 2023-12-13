@@ -26,13 +26,13 @@ Our exploration into American education uncovers key insights across various dim
 
 In essence, this project provides a panoramic view of the American education landscape, presenting nuanced observations that guide institutions and policymakers. The combination of quantitative precision and narrative depth offers a holistic understanding of factors influencing academic achievement, contributing to the development of strategies resonating with the diverse aspirations of learners nationwide.
 
-2. Business Problem Definition
+## 2. Business Problem Definition
 
-2.1 Motivation
+### 2.1 Motivation
 
 Navigating the intricate landscape of U.S. college completion presents a multifaceted challenge that demands our attention. Our project is motivated by a deep-seated aspiration to unravel this complexity, guided by specific objectives. We aim to delve into graduation rates, timeframes for program completion, and demographic trends. This stems from our collective interest in gaining insights into student success, institutional performance, and the evolving patterns of inclusivity in educational outcomes.
 
-2.2 Business Problem
+### 2.2 Business Problem
 
 Understanding college completion trends holds paramount importance for shaping future educational strategies and aiding career choices. The decisions made by students and institutions based on these trends have far-reaching consequences, impacting individual lives and the broader educational landscape. The intricate interplay of factors influencing graduation rates, such as timeframes and demographic shifts, directly affects the success and inclusivity of educational outcomes. As we delve into these nuances, we contribute not only to academic research but also offer practical insights that can inform policies and practices.
 
